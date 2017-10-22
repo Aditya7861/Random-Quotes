@@ -1,2 +1,2 @@
 # Random-Quotes
-This app will show Random MOtivational Quotes. 
+This app shows Random MOtivational Quotes. 
